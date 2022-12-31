@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextronAplication</string>
+    <string-array name="array_kategori">
+        <item>Pria</item>
+        <item>Wanita</item>
+        <item>Anak-anak</item>
+    </string-array>
+</resources>

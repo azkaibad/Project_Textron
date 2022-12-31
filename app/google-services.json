@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433406790465",
+    "project_id": "textronaplication",
+    "storage_bucket": "textronaplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433406790465:android:367b8aaa9d0059ea262fc0",
+        "android_client_info": {
+          "package_name": "com.example.textronaplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433406790465-qqntos06h121c47fbr5jfneg486k4fp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABEVveeU4f3uFZIIWG3vSOJU2NxVQeivI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433406790465-qqntos06h121c47fbr5jfneg486k4fp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
